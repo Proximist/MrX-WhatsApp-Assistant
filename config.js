@@ -19,22 +19,22 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['923055108095'] //you can add multiple number
-global.ownername = "𝙈𝙧𝙓 "
+global.owner = ['919476452037'] //you can add multiple number
+global.ownername = "AdminX"
 global.ytname = "YT: MrX Tech Academy" //ur yt chanel name
 global.socialm = "GitHub: 786unknown420" //ur github or insta name
-global.location = "Pakistan, India, TamilNadu, Coimbatore" //ur location
+global.location = ", India, TamilNadu, Coimbatore" //ur location
 
 //bot bombdy
-global.botname = "𝙈𝙧𝙓 𝙒𝙝𝙖𝙩𝙨𝘼𝙥𝙥 𝘼𝙨𝙨𝙞𝙨𝙩𝙖𝙣𝙩 " //ur bot name
+global.botname = "adminX " //ur bot name
 global.websitex = "https://github.com/generalwebsitex1/MrX-WhatsApp-Assistant" //ur website
 global.vidmenu = fs.readFileSync("./TurboMedia/theme/alexa.mp4") //gif and video menu
 global.packname = "𝙈𝙧𝙓 𝙒𝙝𝙖𝙩𝙨𝘼𝙥𝙥 𝘼𝙨𝙨𝙞𝙨𝙩𝙖𝙣𝙩 "
 global.author = "𝙈𝙧𝙓 "
 global.themeemoji = "💖"
 global.reactmoji = "🌹"
-global.ownertag = ['923055108095'] //ur owner number
-global.ownernummenu = ['923055108095'] //ur owner number in menu and all
+global.ownertag = ['919476452037'] //ur owner number
+global.ownernummenu = ['919476452037'] //ur owner number in menu and all
 global.watermark = "" //ur watermark
 global.botscript = "https://github.com/generalwebsitex1/MrX-WhatsApp-Assistant"
 global.linkz1 = "https://chat.whatsapp.com/KbeXBmjO6Ab5wVQnIA142v"
@@ -73,7 +73,7 @@ var _0x503ef1=_0x5f29;function _0x4de1(){var _0x75c155=['315175XklJHb','333uSlic
 global.lolhuman = "KaysaS"
 global.sessionName = "session"
 global.antitags = false
-global.prefa = ['','!','.','🐦','🐤','😽']
+global.prefa = ['*']
 global.mess = {
     success: 'Done✓',
     admin: 'Tʜɪs Fᴇᴀᴛᴜʀᴇ Is Oɴʟʏ Fᴏʀ Aᴅᴍɪɴ',
@@ -93,7 +93,7 @@ global.mess = {
 }
 global.limitawal = {
     premium: "Infinity",
-    free: 2,
+    free: "Infinity",
     monayawal: 1000
 }
    global.rpg = {
